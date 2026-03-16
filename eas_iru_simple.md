@@ -1,7 +1,3 @@
-Acá te armo el artículo completo con las fuentes citadas directamente de la Ley 6380/2019 y la Ley 6480/2020:
-
----
-
 ## IRE SIMPLE + EAS — Base legal
 
 ### 1. ¿Por qué una EAS puede estar en IRE SIMPLE?
@@ -51,7 +47,3 @@ Es decir, si tenés una EAS en IRE SIMPLE y distribuís utilidades, igual pagás
 |---|---|---|---|
 | **IRE SIMPLE** | Ingresos anteriores ≤ ₲ 2.000 M | Máx. 3% sobre ventas brutas | 8% (no exonerado) |
 | **IRE GENERAL** | Ingresos anteriores > ₲ 2.000 M (o por opción) | 10% sobre renta neta | 8% |
-
----
-
-¿Esto coincide con lo que encontraste vos en la práctica, o hay algo específico que difería?
